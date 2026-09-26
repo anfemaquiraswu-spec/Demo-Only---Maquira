@@ -1,7 +1,6 @@
 fastapi
+uvicorn
 asyncpg
+brypt
 python-dotenv
 pydantic
-uvicorn
-bycript
-
