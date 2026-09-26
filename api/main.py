@@ -1,6 +1,6 @@
 import os
 import asyncpg
-import bycript
+import bcrypt
 from fastapi import FastAPI, HTTPException
 from contextlib import asynccontextmanager
 from pydantic import BaseModel, ConfigDict, Field, field_validator
